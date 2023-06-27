@@ -1,6 +1,6 @@
 ### Hi, I'm Nastya!
 + I`m a graduate in software engineering :woman_student:
-+ I'm a frontend developer :computer:
++ I`m a frontend developer :computer:
 + I like how programming combines creativity and logic! :smiling_face_with_three_hearts:
 
 ### My skills:
