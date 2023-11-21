@@ -15,5 +15,5 @@
 
 
 ### Where to find me
-<a href="https://t.me/AnastasiaV1305" target="_blank"><img src="https://github.com/Nastya1305/Nastya1305/blob/main/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app.svg" /></a> <a href="https://vk.com/id186422415" target="_blank"><img src="https://github.com/Nastya1305/Nastya1305/blob/main/icons8-vk-%D0%B2-%D0%BA%D1%80%D1%83%D0%B3%D0%B5.svg" /></a>
+<a href="https://t.me/AnastasiaV1305" target="_blank"><img src="https://github.com/Nastya1305/Nastya1305/blob/main/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app.svg" /></a> <a href="https://vk.com/id186422415" target="_blank"><img src="https://github.com/Nastya1305/Nastya1305/blob/main/icons8-vk-%D0%B2-%D0%BA%D1%80%D1%83%D0%B3%D0%B5.svg" /></a> <a href="https://www.linkedin.com/in/anastasia-voronkina/" target="_blank"><img src="icons8-linkedin.svg" /></a>
   
