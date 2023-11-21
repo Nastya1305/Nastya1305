@@ -4,10 +4,13 @@
 + I like how programming combines creativity and logic! :smiling_face_with_three_hearts:
 
 ### My skills:
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=Sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=BEM&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/WEBPACK-000000?style=for-the-badge&logo=WEBPACK&logoColor=76b0cd"/> <img src="https://img.shields.io/badge/GULP-000000?style=for-the-badge&logo=GULP&logoColor=ce4646"/>
-
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=TYPESCRIPT&logoColor=2d79c7"/>
- <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=REACT&logoColor=017fa5"/> <img src="https://img.shields.io/badge/REDUX-000000?style=for-the-badge&logo=REDUX&logoColor=7749bd"/> <img src="https://img.shields.io/badge/Styled_Components-000000?style=for-the-badge&logo=StyledComponents&logoColor=D37981"/> 
+ <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=REACT&logoColor=017fa5"/> <img src="https://img.shields.io/badge/REDUX-000000?style=for-the-badge&logo=REDUX&logoColor=7749bd"/> 
+
+
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=Sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=BEM&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/TAILWIND_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8"/> <img src="https://img.shields.io/badge/Styled_Components-000000?style=for-the-badge&logo=StyledComponents&logoColor=D37981"/> 
+ 
+<img src="https://img.shields.io/badge/WEBPACK-000000?style=for-the-badge&logo=WEBPACK&logoColor=76b0cd"/> <img src="https://img.shields.io/badge/GULP-000000?style=for-the-badge&logo=GULP&logoColor=ce4646"/> <img src="https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite&logoColor=8c6bf6"/> 
 
 
 
